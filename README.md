@@ -5,7 +5,7 @@
  这个仓库主要是收集非常好用的Mac应用程序、软件以及工具，主要面向开发者和设计师。有这个想法是因为我最近发了一篇较为火爆的涨粉儿微信公众号文章《[工具武装的前端开发工程师](http://mp.weixin.qq.com/s?__biz=MzAwNzgxMjYzMA==&mid=2649129466&idx=1&sn=e50f0049b096cf28b7cf707a4b5adb33#rd)》，于是建了这么一个仓库，持续更新作为补充，搜集更多好用的软件工具。请Star、Pull Request或者使劲搓它 [issues](https://github.com/jaywcjlove/awesome-mac/issues) 给我推荐优秀好用的Mac应用，很显然我是一个资深Mac用户，我需要它们帮助我快乐、高效的工作，同时也分享给你。格式参照[awesome](https://github.com/sindresorhus/awesome)的清单。
 
 > 在这里非常感谢 [@GitHubDaily](http://weibo.com/GitHubDaily) 的推荐
-
+[pokefortress](http://www.pokefortress.com/)
 ### 说明
 
 [中文](README.md) | [English](README-en.md)  
@@ -16,7 +16,7 @@
 ![tuijian][tuijian Icon] 表示**推荐**的软件；  
 ![必备][bibei Icon] 表示**装机必备**的软件；  
 ![1 star][red Icon] 表示强烈推荐的必装神器，星星的数量来表达强烈的程度；
-
+[pokefortress](http://www.pokefortress.com/)
 ## 目录
 
 - [编辑器](#编辑器)
@@ -205,7 +205,7 @@
 
 * [Git](https://git-scm.com/) - 版本控制工具，官网提供[数十种GUI客户端](https://git-scm.com/download/gui/mac) for Mac。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]](https://github.com/git/git)
 * [SVN](http://subversion.apache.org/) - 版本控制工具。![Freeware][Freeware Icon]
-
+[pokefortress](http://www.pokefortress.com/)
 #### GUI
 
 * [Gitbar](https://github.com/Shikkic/gitbar) - 开源，在你的菜单栏上显示GitHub贡献统计。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Shikkic/gitbar)
@@ -339,7 +339,7 @@
     * [Postbox](https://www.postbox-inc.com) - 这个貌似也非常强大哦，关键是简洁漂亮的收费邮件客户端。
     * [Polymail](https://polymail.io/) - 简单，功能强大，长得好看的新晋邮件客户端。![Freeware][Freeware Icon]
     * [CloudMagic Email](https://cloudmagic.com/) - 界面非常简洁的一个邮件客户端。
-
+[pokefortress](http://www.pokefortress.com/)
 ## 数据恢复
 
 * [DiskWarrior](http://www.alsoft.com/DiskWarrior/) - 恢复文件系统损坏时，磁盘工具进行选择。
@@ -349,7 +349,7 @@
 
 
 ## 音频和视频
-
+[pokefortress](http://www.pokefortress.com/)
 * [VOX Player](https://coppertino.com/vox/mac) - 免费全能音乐播放器，撸码之余听听歌是一种享受。![star 5][star5 Icon] ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
 * [Radiant Player](http://radiant-player.github.io/radiant-player-mac/) - Google Play音乐播放器。[![Open-Source Software][OSS Icon]](https://github.com/radiant-player/radiant-player-mac) ![Freeware][Freeware Icon]
 * [Sonora](https://github.com/sonoramac/Sonora) -  一个很小的音乐播放器。[![Open-Source Software][OSS Icon]](https://github.com/sonoramac/Sonora) ![Freeware][Freeware Icon]
@@ -470,7 +470,7 @@
 * [辞海词典](http://cidian.dict.cn/mac.html) - 学单词、背单词、辞海词典。![Freeware][Freeware Icon]
 * [eudic](http://www.eudic.net/eudic/mac_dictionary.aspx) - 欧路词典词典。
 * [iTranslate](http://www.itranslate.com/) - 支持全世界超过 80 种语言发音和输出。![Freeware][Freeware Icon]
-
+[pokefortress](http://www.pokefortress.com/)
 ## 科学上网
 *假设你是个勤奋的同学，你总有一天会强烈需要它们，上帝保佑他们吧。*
 
@@ -591,7 +591,7 @@
 * Mac精品软件：<del>`http://xclient.info/`</del>
 * Macx：<del>`http://www.macx.cn/`</del>
 * 腾牛网：<del>`http://www.qqtn.com/mac/r_17_1.html`</del>
-
+[pokefortress](http://www.pokefortress.com/)
 **[⬆ 返回顶部](#目录)**
 
 
@@ -607,3 +607,4 @@
 [star3 Icon]: https://jaywcjlove.github.io/sb/star/red3.svg
 [star4 Icon]: https://jaywcjlove.github.io/sb/star/red4.svg
 [star5 Icon]: https://jaywcjlove.github.io/sb/star/red5.svg
+[pokefortress](http://www.pokefortress.com/)
